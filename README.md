@@ -34,3 +34,22 @@ A simple menu-driven Python console program for:
 - Key generation creates `private_key.pem` and `public_key.pem` in the current folder.
 - Keep `private_key.pem` secret. Do not upload your private key or personal vehicle data to GitHub.
 - This is a learning assignment, not a production vehicle registration system.
+---
+
+Project Output Screenshots
+
+The following screenshots demonstrate the working outputs of the Blockchain-Based Vehicle Registration System.
+
+1. SHA-256 Hash Generation
+
+![SHA-256 Hash Generation](screenshot/hash-generation.png)
+
+
+2. Digital Signature
+
+![Digital Signature](screenshot/digital-signature.png)
+
+
+3. Vehicle Registration
+
+![Vehicle Registration](screenshot/vechicle-registration.png)

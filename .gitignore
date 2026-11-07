@@ -5,3 +5,4 @@ venv/
 private_key.pem
 public_key.pem
 vehicles.json
+private_key.pem
